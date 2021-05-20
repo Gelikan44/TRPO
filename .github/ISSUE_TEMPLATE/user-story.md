@@ -2,7 +2,7 @@
 name: User Story
 about: User Story pattern
 title: ''
-labels: ТРПО, User Story
+labels: User Story
 assignees: Gelikan44
 
 ---
