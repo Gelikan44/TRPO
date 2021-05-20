@@ -1,8 +1,8 @@
 ---
 name: User Story
-about: Описать подробнее о user story
+about: User Story pattern
 title: ''
-labels: User Story
+labels: ТРПО, User Story
 assignees: Gelikan44
 
 ---
